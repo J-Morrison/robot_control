@@ -2,7 +2,7 @@
 
 This project is task based and involes the open loop simulation and contoller implementation of the following two-link manipulator:
 
-[Two-Link Manipulator](two_link_manipulator.png)
+[Two-Link Manipulator](two_link_manipulator.PNG)
 
 For the open loop simulation, the task is simply to simulate the two-link manipulator's natural response to three different initializations, where the initial position of the manipulator, the manipulator's motor torques and the friction acting on the manipulator are varied with each. 
 
